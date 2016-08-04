@@ -139,7 +139,7 @@
     <value>Pour vous connecter vous devez renseigner votre identifiant/Email et mot de passe dans l'application. Si vous n'êtes pas confiant, fermez l'application.</value>
   </data>
   <data name="logoutText.Text" xml:space="preserve">
-    <value>Déconnecter</value>
+    <value>Déconnection</value>
   </data>
   <data name="nearbyText.Text" xml:space="preserve">
     <value>A Proximité</value>
