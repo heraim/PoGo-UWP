@@ -127,7 +127,7 @@
     <value>Hyper Potion</value>
   </data>
   <data name="ItemIncenseCool" xml:space="preserve">
-    <value>Encens Cool</value>
+    <value>Encens Rafraîchissant</value>
   </data>
   <data name="ItemIncenseFloral" xml:space="preserve">
     <value>Encens Floral</value>
